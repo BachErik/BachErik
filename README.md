@@ -8,4 +8,4 @@
 
 ## Projects
 
-[WinDoofOS](https://github.com/BachErik/WinDoofOS), [Plugin API](https://github.com/BachErik/API), [Website - bacherik.de](https://github.com/BachErik/bacherik.de), [Rust guessing game](https://github.com/BachErik/guessing-game)
+[WinDoofOS](https://github.com/BachErik/WinDoofOS), [Plugin API](https://github.com/BachErik/Plugin-API), [my maven repos](http://repo.bacherik.be), [Rust guessing game](https://github.com/BachErik/guessing-game)
