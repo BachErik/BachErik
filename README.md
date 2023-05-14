@@ -9,3 +9,8 @@
 ## Projects
 
 [WinDoofOS](https://github.com/BachErik/WinDoofOS), [Plugin API](https://github.com/BachErik/Plugin-API), [my maven repos](http://repo.bacherik.be), [Rust guessing game](https://github.com/BachErik/guessing-game)
+
+## Stats
+<span>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=BachErik&margin-w=15&row=2" />
+</span>
