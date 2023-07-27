@@ -17,7 +17,6 @@
 
 # Windows nicht gut, weil ...
 - ... man nicht in den Umgebungsvariablen mittels einer Variable auf eine andere Variable verlinken kann, ohne dass sich irgendwann random Windows denkt: "och nö, wir schreiben die jetzt mal da rein, was eigentlich in der Variable steht." Und dadurch Dinge kaputtgehen!
-- manchmal die `%USERPROFILE%\.ssh\known_hosts` rum spackt und man sich nicht mehr auf bestimmte Server per SSH verbinden kann. Fix: `%USERPROFILE%\.ssh\known_hosts` löschen bzw. den Host daraus löschen
 - verbraucht im idle schon relativ viel RAM!
 - kommt nicht mit kleinem freien speicher auf `C:\` klar!
 
