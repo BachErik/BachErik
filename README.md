@@ -13,7 +13,10 @@
 ## Stats
 <span>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=BachErik&margin-w=15&row=2" />
+  <a href="https://codeium.com/profile/bacherik"><img align="center" src="https://codeium.com/badges/user/bacherik/autocomplete" /></a>
+  <a href="https://codeium.com/profile/bacherik"><img align="center" src="https://codeium.com/badges/v2/user/bacherik/streak" /></a>
 </span>
+
 
 # Windows nicht gut, weil ...
 - ... man nicht in den Umgebungsvariablen mittels einer Variable auf eine andere Variable verlinken kann, ohne dass sich irgendwann random Windows denkt: "och nö, wir schreiben die jetzt mal da rein, was eigentlich in der Variable steht." Und dadurch Dinge kaputtgehen!
