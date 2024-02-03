@@ -17,6 +17,7 @@
   <a href="https://codeium.com/profile/bacherik"><img align="center" src="https://codeium.com/badges/v2/user/bacherik/streak" /></a>
 </span>
 
+  [![wakatime](https://wakatime.com/badge/user/a566d4b6-1b86-4d71-aacb-bdecaacd7c41.svg?style=plastic)](https://wakatime.com/@a566d4b6-1b86-4d71-aacb-bdecaacd7c41)
 
 # Windows nicht gut, weil ...
 - ... man nicht in den Umgebungsvariablen mittels einer Variable auf eine andere Variable verlinken kann, ohne dass sich irgendwann random Windows denkt: "och nö, wir schreiben die jetzt mal da rein, was eigentlich in der Variable steht." Und dadurch Dinge kaputtgehen!
