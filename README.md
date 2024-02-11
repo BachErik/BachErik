@@ -5,7 +5,7 @@
 
 ## Projects
 
-[WinDoofOS](https://github.com/BachErik/WinDoofOS) (Archive), [Plugin API](https://github.com/BachErik/Plugin-API), [Rust guessing game](https://github.com/BachErik/guessing-game)
+[WinDoofOS](https://github.com/BachErik/WinDoofOS) (Archive), [Rust guessing game](https://github.com/BachErik/guessing-game)
 
 # Windows nicht gut, weil ...
 - ... man nicht in den Umgebungsvariablen mittels einer Variable auf eine andere Variable verlinken kann, ohne dass sich irgendwann random Windows denkt: "och nö, wir schreiben die jetzt mal da rein, was eigentlich in der Variable steht." Und dadurch Dinge kaputtgehen!
