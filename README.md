@@ -2,6 +2,7 @@
 |-|-|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BachErik&show_icons=true&langs_count=10&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&exclude_repo=WinDoofOS&layout=pie) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BachErik&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&layout=compact) |
 
+![Status](https://status.bacherik.de/badge?theme=dark)
 
 ## Projects
 
