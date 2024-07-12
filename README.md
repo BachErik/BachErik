@@ -15,7 +15,7 @@
 
 # Follow me under
 - <a rel="me" href="https://mastodon.social/@BachErik">Mastodon</a>
-- [X (formally Twitter)](https://x.com/@BachErik_)
+- [X (formally Twitter)](https://x.com/@BachErik_live)
 
 # Windows gut, weil ...
 - die meisten Sachen (nur) mit Windows kompatibel sind.
