@@ -4,16 +4,8 @@
 
 ## Projects
 
-[WinDoofOS](https://github.com/BachErik/WinDoofOS) (Archive), [Rust guessing game](https://github.com/BachErik/guessing-game), [BanSystem](https://github.com/toxnix/BanSystem), [KilledBy](https://github.com/BachErik/killedby)
-
-# Windows nicht gut, weil ...
-- ... man nicht in den Umgebungsvariablen mittels einer Variable auf eine andere Variable verlinken kann, ohne dass sich irgendwann random Windows denkt: "och nö, wir schreiben die jetzt mal da rein, was eigentlich in der Variable steht." Und dadurch Dinge kaputtgehen!
-- verbraucht im idle schon relativ viel RAM!
-- kommt nicht mit kleinem freien speicher auf `C:\` klar!
+[Rust guessing game](https://github.com/BachErik/guessing-game), [BanSystem](https://github.com/toxnix/BanSystem), [KilledBy](https://github.com/BachErik/killedby)
 
 # Follow me under
 - <a rel="me" href="https://mastodon.social/@BachErik">Mastodon</a>
 - [X (formally Twitter)](https://x.com/@BachErik_live)
-
-# Windows gut, weil ...
-- die meisten Sachen (nur) mit Windows kompatibel sind.
