@@ -1,4 +1,6 @@
-<img width="100%" src="banner.svg" alt="Banner">
+<a href="https://bacherik.de">
+  <img width="100%" src="banner.svg" alt="Banner">
+</a>
 
 <h1 align="center">Hi, I'm Erik — <code>BachErik</code> 👋</h1>
 
