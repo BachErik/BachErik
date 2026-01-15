@@ -1,11 +1,61 @@
-| [![GitHub Streak](https://streak-stats.demolab.com?user=BachErik&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | ![Statistiken](https://github-readme-stats.vercel.app/api?username=BachErik&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) |
-|-|-|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BachErik&show_icons=true&langs_count=10&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&exclude_repo=WinDoofOS&layout=pie) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BachErik&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&layout=compact) |
+<img width="100%" src="banner.svg" alt="Banner">
 
-## Projects
+<h1 align="center">Hi, I'm Erik — <code>BachErik</code> 👋</h1>
 
-[Rust guessing game](https://github.com/BachErik/guessing-game), [BanSystem](https://github.com/toxnix/BanSystem), [KilledBy](https://github.com/BachErik/killedby)
+<p align="center">
+  Backend-leaning builder • Kubernetes enjoyer • NixOS tinkerer • Minecraft modder • Learning Go
+</p>
 
-# Follow me under
-- <a rel="me" href="https://mastodon.social/@BachErik">Mastodon</a>
-- [X (formally Twitter)](https://x.com/@BachErik_live)
+<p align="center">
+  <a href="https://github.com/BachErik">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BachErik?style=for-the-badge">
+  </a>
+  <a href="https://github.com/BachErik?tab=repositories">
+    <img alt="Explore repositories" src="https://img.shields.io/badge/Repos-Explore-blue?style=for-the-badge">
+  </a>
+  <img alt="Built with curiosity" src="https://img.shields.io/badge/Built%20with-curiosity-6e40c9?style=for-the-badge">
+</p>
+
+## 🧠 About me
+
+I’m **Erik** (online: **BachErik**) — I like systems that are **reproducible**, **well-documented**, and **actually deployable**.
+
+- Mostly **backend + infrastructure** (UI only when it earns its keep).
+- I build **Kubernetes-native** things and care about **clean boundaries** and **good docs**.
+- I **daily-drive NixOS** (and I’m Arch-familiar).
+- I occasionally disappear into the mines to build **Minecraft mods & tooling**.
+
+## 🔭 Current focus
+
+- **Kunamel** — Kubernetes-native game panel concept: **extensions + per-user resource limits + clean API boundaries**
+- **Go** for backend + extension implementations (and aggressively questioning every interface)
+- **Minecraft (Java / Fabric)** modding & server automation workflows
+
+## 🧰 Toolbox
+
+**Languages**  
+Java • Go (learning) • Python (a bit) • TypeScript/JavaScript
+
+**Infra & Ops**  
+Kubernetes • Docker/containers • Git/GitHub • Linux (NixOS + Arch familiarity)
+
+**Editor / Workflow**  
+IntelliJ IDEA (Java) • VS Code (everything else)
+
+## 🧪 Featured work
+
+- [**Kunamel**](https://github.com/Kunamel/) — **Ku**bernetes **na**tive ga**me** pane**l**
+- [**LyreWorks**](https://github.com/LyreWorks/) — Music/audio projects & tooling
+- [**BachFlow**](https://github.com/BachFlow/) — Status page + monitoring experiments
+- [**KilledBy**](https://github.com/BachErik/killedby) — A customizable reimplementation of killedby.tech:
+  add companies, tweak entries, add projects, and customize the footer.
+
+## 🤝 Connect
+
+<p>
+  <a href="https://bacherik.de"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://yt.bacherik.de"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitch.bacherik.de"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://dc.bacherik.de"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:bacherik.info@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
